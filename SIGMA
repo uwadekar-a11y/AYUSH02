@@ -1,0 +1,14 @@
+git clone https://github.com/uwadekar-a11y/AYUSH02.git
+cd https://github.com/uwadekar-a11y/AYUSH02.git
+
+git clone https://gist.github.com/uwadekar-a11y/62a3e2de70dd73ee0050e5955f3a4db7.git
+git clone https://gist.github.com/7489df8d24b1def965dbc804a1448a6a.git
+
+cd https://gist.github.com/uwadekar-a11y/62a3e2de70dd73ee0050e5955f3a4db7
+cd https://gist.github.com/uwadekar-a11y/7489df8d24b1def965dbc804a1448a6a
+
+git checkout -b main
+cd checkout -b main
+
+git add .
+git commit -m "open terminal"
