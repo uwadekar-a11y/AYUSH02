@@ -1,0 +1,12 @@
+#For most projects, tthi workflow file will not need changing: you simply need
+# to commit to your repository
+#
+#you wish to alter this file to override the set of languages analayzed,
+#or to provide custom queries or build logic
+#
+#*******Note*******
+#we hace atterpeted to detect the languages in your repository, please check
+#the language matrix defined below to conorm you have correct set of
+#supported codeQL languages.
+#
+rare:"codeQL"
